@@ -1,2 +1,3 @@
-# Coming Soon!
+# Home
+### Coming Soon!
 The m7 website is coming soon...
