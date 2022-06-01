@@ -1,2 +1,3 @@
+<title>m7player</title>
 # Coming Soon!
 The m7 website is coming soon...
