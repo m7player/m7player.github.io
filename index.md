@@ -8,10 +8,10 @@ The project began in May 2022, with one of the core developers and designers for
 * M7 finally got a logo  
 ![m7 logo](https://raw.githubusercontent.com/m7player/m7/master/tv/windows/icons/hicolor/128x128/apps/miro.png)  
 ***Here it is (above)***
-* and a Discord channel and server was created.
-* A Github group was made
-* The repository was made
-* This website was made
+* a Discord channel and server was created.
+* a Github group was made
+* the repository was made
+* this website was made
 * and so on...
 ### What are those features?
 - YouTube search
