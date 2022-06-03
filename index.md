@@ -6,7 +6,7 @@ Unlike Miro, M7 will (hopefully) be more supported unlike its predecessor, Miro.
 ### Why?
 The project began in May 2022, with one of the core developers and designers for M7, [rand0mgh](https://github.com/rand0mgh) direct messaging CDL/Actinium about a Miro revival, several days later of planning and the following happened...  
 * M7 finally got a logo  
-![m7 logo](https://raw.githubusercontent.com/m7player/m7/master/tv/windows/icons/hicolor/128x128/apps/miro.png)
+![m7 logo](https://raw.githubusercontent.com/m7player/m7/master/tv/windows/icons/hicolor/128x128/apps/miro.png)  
 ***Here it is (above)***
 * and a Discord channel and server was created.
 ### What are those features?
